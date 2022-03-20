@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github 3</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikut</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Cari Pengguna</string>
+    <string name="favorites">Favorit</string>
+    <string name="setting">Pengaturan</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="repeating_on">"Mengaktifkan Alarm"</string>
+    <string name="repeating_off">Membatalkan Alarm</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa </string>
+    <string name="setReminder">Setel Pengingat</string>
+    <string name="repository">Repositori</string>
+    <string name="about">Tentang Saya</string>
+    <string name="name_author">AULDY ANSYA RULLAH</string>
+    <string name="akun_gmail">a1211560@bangkit.academy</string>
+    <string name="check_profile">Periksa Profil Saya</string>
+    <string name="send_email">Mengirim Email</string>
+</resources>

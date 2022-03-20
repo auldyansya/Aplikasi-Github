@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github 3</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search User</string>
+    <string name="favorites">Favorites</string>
+    <string name="setting">Setting</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="repeating_on">"Repeating alarm set up"</string>
+    <string name="repeating_off">Repeating alarm cancel</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="setReminder">Set Reminder</string>
+    <string name="repository">Repository</string>
+    <string name="about">About Me</string>
+    <string name="name_author">AULDY ANSYA RULLAH</string>
+    <string name="akun_gmail">a1211560@bangkit.academy</string>
+    <string name="check_profile">Check My Profile</string>
+    <string name="send_email">Send Email</string>
+</resources>
